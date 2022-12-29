@@ -69,6 +69,6 @@ if __name__ == '__main__':
             )
         ],
         title="钢联智能文本纠错系统",
-        description="请输入待纠错的纹章",
+        description="请输入待纠错的文章",
         examples=examples
     ).launch(server_name='0.0.0.0')
